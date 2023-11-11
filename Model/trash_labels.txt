@@ -1,0 +1,4 @@
+0 CardBoard
+1 Glass
+2 Metal
+3 paper
